@@ -1,0 +1,2 @@
+# JujutsuKaisenBot
+Bot discord
